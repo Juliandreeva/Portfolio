@@ -23,6 +23,7 @@
 - pandas
 - numpy
 - matplotlib
+- seaborn
 - plotly.express
 - datetime
 - scipy
